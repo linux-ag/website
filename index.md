@@ -10,4 +10,10 @@ Mail an <linux-ag-subscribe@fsi.uni-tuebingen.de>.
 
 # Treffen
 
-Nächstes Treffen: TBD.
+## Linux-AG
+
+Jeden ersten Freitag im Monat um 16:00 Uhr.
+
+## Räte-Café Helpdesk
+
+Jeden dritten Freitag im Monat um 16:00 Uhr.
