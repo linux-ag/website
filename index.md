@@ -16,7 +16,4 @@ Jeden ersten Freitag im Monat um 16:00 Uhr.
 
 ## Räte-Café Helpdesk
 
-Achtung: Diesen Monat ausnahmsweise schon eine Woche früher, d. h. am 9.12. um
-16:00h!
-
 Jeden dritten Freitag im Monat um 16:00 Uhr.
