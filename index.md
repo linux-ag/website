@@ -10,10 +10,7 @@ Mail an <linux-ag-subscribe@fsi.uni-tuebingen.de>.
 
 # Treffen
 
-## Linux-AG
-
-Jeden ersten Freitag im Monat um 16:00 Uhr.
-
-## Räte-Café Helpdesk
-
-Jeden dritten Freitag im Monat um 16:00 Uhr.
+**Achtung:** In der Vorlesungsfreien Zeit sind die Treffen unregelmäßig. Am
+besten meldet man sich auf unserer
+[Mailingliste](https://www.fsi.uni-tuebingen.de/mailman/listinfo/linux-ag/) an,
+damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
