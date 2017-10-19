@@ -10,7 +10,6 @@ Mail an <linux-ag-subscribe@fsi.uni-tuebingen.de>.
 
 # Treffen
 
-**Achtung:** In der Vorlesungsfreien Zeit sind die Treffen unregelmäßig. Am
-besten meldet man sich auf unserer
+**Achtung:** Am besten meldet man sich auf unserer
 [Mailingliste](https://www.fsi.uni-tuebingen.de/mailman/listinfo/linux-ag/) an,
 damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
