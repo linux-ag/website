@@ -14,7 +14,13 @@ Mail an <linux-ag-subscribe@fsi.uni-tuebingen.de>.
 [Mailingliste](https://www.fsi.uni-tuebingen.de/mailman/listinfo/linux-ag/) an,
 damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
 
-### Treffen WS 17/18
+### Treffen im SS 18
 
-**Update 2018-02-14**: In der vorlesungsfreien Zeit gibt es keine regelmäßigen
-Treffen. Spontane Treffen werden über die Mailingliste koordiniert.
+Immer jeden zweiten Freitag um 18h im Raum A302 (Sand):
+- 04.05.2018
+- 18.05.2018
+- 01.06.2018
+- 15.06.2018
+- ~~29.06.2018~~ (Nicht, da fsi-Sommerfest)
+- 13.07.2018
+- 27.07.2018 (Evtl. wird ggf. spontan entschieden)
