@@ -16,4 +16,7 @@ damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
 
 ### Treffen im WS 18/19
 
-TBD, bis jetzt war es häufig am Freitag um 18h im Raum A302 (Sand).
+**Erstes Treffen**: Am Freitag, dem 26.10.2018, um 18 Uhr auf dem Sand im Raum
+A302.
+
+Weitere Termine werden über die Mailingliste bekannt gegeben.
