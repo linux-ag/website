@@ -17,6 +17,6 @@ damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
 ### Treffen im WS 18/19
 
 **Erstes Treffen**: Am Freitag, dem 26.10.2018, um 18 Uhr auf dem Sand im Raum
-A302.
+A301.
 
 Weitere Termine werden über die Mailingliste bekannt gegeben.
