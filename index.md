@@ -23,6 +23,6 @@ Danach immer jeden zweiten Freitag um 18h im Raum A301 (Sand):
 - 09.11.2018
 - 23.11.2018
 - 07.12.2018
-- 21.12.2018 (noch nicht sicher)
+- 21.12.2018
 - 18.01.2019
 - 01.02.2019
