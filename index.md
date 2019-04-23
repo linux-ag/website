@@ -16,8 +16,13 @@ damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
 
 ### Treffen im SS 19
 
-**Erstes Treffen**: TBD, vermutlich an einem Freitag um 18 Uhr auf dem Sand im
+**Erstes Treffen**: Freitag, den 26. April, um 18 Uhr auf dem Sand im
 Raum A302.
 
 Danach normalerweise jeden zweiten Freitag um 18h im Raum A302 (Sand):
-- DD.MM.2019
+- 10.05.2019
+- 24.05.2019
+- 07.06.2019
+- 21.06.2019
+- 05.07.2019
+- 19.07.2019
