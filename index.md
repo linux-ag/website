@@ -16,8 +16,14 @@ damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
 
 ### Treffen im WS 19/20
 
-**Erstes Treffen**: TBD, vermutlich an einem Freitag um 18:30 Uhr auf dem Sand
+**Erstes Treffen**: Freitag, der 25. Oktober 2019 um 18:30 Uhr auf dem Sand
 im Raum A302.
 
-Danach normalerweise jeden zweiten Freitag um 18h im Raum A302 (Sand):
-- DD.MM.2019
+Danach jeden zweiten Freitag um 18:30 Uhr im Raum A302 (Sand):
+- 08.11.2019
+- 22.11.2019
+- 06.12.2019
+- 20.12.2019 (noch nicht sicher)
+- ~~03.01.2020~~ (Weihnachtspause)
+- 17.01.2020
+- 31.01.2020
