@@ -2,7 +2,7 @@
 Title: Links
 ---
 
-- [LUGT (Linux User Group Tübingen)](http://tuebingen.linux.de)
+- [LUGT (Linux User Group Tübingen)](https://www.lug-tuebingen.de/)
 - [Tübix (Tübinger Linuxtag)](https://www.tuebix.org/)
 - [Tü.λ - Tübinger Functional Programming Night](https://www.meetup.com/Tu-Lambda/)
 - [Cryptoparty Tübingen](https://www.cryptoparty-tuebingen.de/)
