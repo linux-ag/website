@@ -12,4 +12,4 @@ Title: Kontakt
 
 ### IM (WIP)
 
-**Matrix: [#linux-ag:matrix.org](https://riot.im/app/#/room/#linux-ag:matrix.org)**
+**Matrix: #linux-ag:matrix.org ([Element Web](https://app.element.io/#/room/#linux-ag:matrix.org))**
