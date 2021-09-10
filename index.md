@@ -14,7 +14,9 @@ Mail an <linux-ag-subscribe@fsi.uni-tuebingen.de>.
 [Mailingliste](https://www.fsi.uni-tuebingen.de/mailman/listinfo/linux-ag/) an,
 damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
 
-### Treffen im SS 21
+### Treffen im WS 21/22
 
-Auf Grund der aktuellen Corona-Situation sind zumindest vorerst keine Treffen
-geplant. Weitere Details werden ggf. über die Mailingliste bekannt gegeben.
+**TBD**
+
+Im Wintersemester sind hoffentlich wieder Präsenztreffen möglich.
+Weitere Details werden ggf. über die Mailingliste bekannt gegeben.
