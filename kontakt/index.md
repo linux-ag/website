@@ -10,6 +10,6 @@ Title: Kontakt
 
 **E-Mail: <linux-helpdesk@fsi.uni-tuebingen.de>**
 
-### IM (WIP)
+### IM/Chat
 
 **Matrix: #linux-ag:matrix.org ([Element Web](https://app.element.io/#/room/#linux-ag:matrix.org))**
