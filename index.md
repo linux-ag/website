@@ -8,15 +8,11 @@ Die Koordination läuft über die Mailingliste, Anmeldung per
 [Web](https://www.fsi.uni-tuebingen.de/mailman/listinfo/linux-ag/) oder leerer
 Mail an <linux-ag-subscribe@fsi.uni-tuebingen.de>.
 
-# Termine
+# Treffen im WS 21/22
 
-**Achtung:** Am besten meldet man sich auf unserer
-[Mailingliste](https://www.fsi.uni-tuebingen.de/mailman/listinfo/linux-ag/) an,
-damit man die (teilweise kurzfristigen) Änderungen mitbekommt.
+Dieses Wintersemester sind endlich wieder Präsenztreffen möglich:
+- **Wann?**: Jeden Freitag um 18:30 Uhr.
+- **Wo?**: Auf dem Sand im Raum A104.
 
-### Treffen im WS 21/22
-
-**TBD**
-
-Im Wintersemester sind hoffentlich wieder Präsenztreffen möglich.
-Weitere Details werden ggf. über die Mailingliste bekannt gegeben.
+**Achtung:** Um Änderungen (teilweise kurzfristig) und weitere Details
+mitzubekommen meldet man sich am besten auf unserer Mailingliste an.
