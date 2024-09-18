@@ -4,7 +4,7 @@ Title: Links
 
 - [LUGT (Linux User Group Tübingen)](https://www.lug-tuebingen.de/)
 - [Tübix (Tübinger Linuxtag)](https://www.tuebix.org/)
-- [Chaostreff Tübingen](https://xn--chaostreff-tbingen-x6b.de/doku.php?id=start)
+- [Chaostreff Tübingen](https://cttue.de/doku.php?id=start)
 - [Tü.λ - Tübinger Functional Programming Night](https://www.meetup.com/Tu-Lambda/)
 - [Cryptoparty Tübingen](https://www.cryptoparty-tuebingen.de/)
 - [Fablab Neckar-Alb e.V.](https://www.fablab-neckar-alb.org)
